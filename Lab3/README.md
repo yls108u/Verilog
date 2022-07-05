@@ -1,1 +1,0 @@
-將Lab1作業四個4-bits的加法器在FPGA上實作，使用Nexys4開發板上從右到左每四個Switches當作一 個input，當按下Button(N17)，就會將加法器四個input相加結果以binary形式更新到LEDs上，相加結果以6-bits來表示
