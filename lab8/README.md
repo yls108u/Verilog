@@ -1,0 +1,1 @@
+使用sign extension，設計8bit有號乘法器
