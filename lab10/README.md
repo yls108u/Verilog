@@ -1,0 +1,1 @@
+使用 moore machine、mealy machine 的方式，設計一偵測位元串流”10010”的信號偵測器
